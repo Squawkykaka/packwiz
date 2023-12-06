@@ -1,0 +1,13 @@
+name = "Squawkypack"
+author = "Squawkykaka"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0c8c3478361c0da8363b58f94ba3dbe7bce73a153fd7db94245e3924796f3de1"
+
+[versions]
+minecraft = "1.20.2"
+quilt = "0.22.1-beta.2"
