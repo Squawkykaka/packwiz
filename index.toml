@@ -11,6 +11,11 @@ hash = "ca52b58cf0540bcec5d8b0318cddb371683b6f3f87ad9b925ff600ddd330f461"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "33e828c63a098d971fb2b98cfa0f90bf96337d3a254afdc863463f4d62b57781"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "196d40b07e59ffbdbe9e8ba4a6d461c1cc5a1e2883a49fb4d9055607938a3644"
 metafile = true
@@ -43,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "b0c4f47a627912dc75abfb3b987de9092dcd71e499565abe8a75b43b274be382"
+metafile = true
+
+[[files]]
+file = "mods/drp-global-datapack.pw.toml"
+hash = "e10ad8b56bdc0b6ad36551004d7d5cde964cf6ea232dd356c3d2b99982715a70"
 metafile = true
 
 [[files]]
@@ -88,6 +98,16 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "7f92b24d59c9f87bd6310547b1dee47e8f4c0116f31e9c7835d3b9ca60d8c144"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "d956cf0f76876125ccdb7ef0451006e6082fae0a078162a775d7617bdfe3090d"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "05f36991bce548232db0c9187ec844fa055a665a6d3e610da50a8121f8a42e2a"
 metafile = true
 
 [[files]]
