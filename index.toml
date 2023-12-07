@@ -6,6 +6,16 @@ hash = "7504fa82b5bd14aee682a6882c109140f302bd63bb6f0dfd1108f9c1c9d32c38"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "ca52b58cf0540bcec5d8b0318cddb371683b6f3f87ad9b925ff600ddd330f461"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "196d40b07e59ffbdbe9e8ba4a6d461c1cc5a1e2883a49fb4d9055607938a3644"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "8307c0c613b451587b56e1fb4609c3f0839e2a932dc33af9c4012b56c71f6b92"
 metafile = true
@@ -36,6 +46,11 @@ hash = "09220f5659620232c1eeedb0b948485da91ec3a5d1a92d833539adb0b1d287ae"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "be8b6814ede9c36e0ba5fb78bcbc307bf640798157b51f9b2ac318b583f67153"
+metafile = true
+
+[[files]]
 file = "mods/interiors.pw.toml"
 hash = "b225595fa7ccb1e05a1011ae967db2f5e811d191d9e4e303df51a8141c54eaaa"
 metafile = true
@@ -43,6 +58,26 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "032d4ea60b85f649fe3e7a4b7a95f4732c1cf219d820b13a4e9e63eb0eebf3c2"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "663b996b6ebea5c1ba69e70484a3a9980961408e08373b3ddc0a6921b1752dbd"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "7f92b24d59c9f87bd6310547b1dee47e8f4c0116f31e9c7835d3b9ca60d8c144"
 metafile = true
 
 [[files]]
