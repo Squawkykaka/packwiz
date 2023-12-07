@@ -41,6 +41,11 @@ hash = "d34839e45f2afc9cf3d81e7650decf0b0c2acc8eb480c85bb02c5451fb58e329"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "b0c4f47a627912dc75abfb3b987de9092dcd71e499565abe8a75b43b274be382"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "09220f5659620232c1eeedb0b948485da91ec3a5d1a92d833539adb0b1d287ae"
 metafile = true
@@ -58,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "032d4ea60b85f649fe3e7a4b7a95f4732c1cf219d820b13a4e9e63eb0eebf3c2"
+metafile = true
+
+[[files]]
+file = "mods/littletiles.pw.toml"
+hash = "3ce242ea356cb1873d126008483894edfbe69ef4d4a7948bfc3fecb420ccbb02"
 metafile = true
 
 [[files]]
