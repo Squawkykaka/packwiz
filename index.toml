@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "comments.md"
+hash = "42b2ce0cea7e8a1bb59e0297ea603f77eccf1a1f25b21cf3a160bcdbc7bc4531"
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7504fa82b5bd14aee682a6882c109140f302bd63bb6f0dfd1108f9c1c9d32c38"
 metafile = true
@@ -8,11 +12,6 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "8307c0c613b451587b56e1fb4609c3f0839e2a932dc33af9c4012b56c71f6b92"
-metafile = true
-
-[[files]]
-file = "mods/create-misc-and-things.pw.toml"
-hash = "d51e98a52a49d9898abd1ba8c5eed3770a99fd5411edc5ac0d0b525167e70900"
 metafile = true
 
 [[files]]
