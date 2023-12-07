@@ -6,16 +6,6 @@ hash = "7504fa82b5bd14aee682a6882c109140f302bd63bb6f0dfd1108f9c1c9d32c38"
 metafile = true
 
 [[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "0c2a52282524cf6ef4968dc9e78dadbf2eca2190f697dbc9c10fdf02b04d0e75"
-metafile = true
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "1e2719c8729ac1eebf432a195d71dd00f6bb980f643527bfaa0d9536fb38177b"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "8307c0c613b451587b56e1fb4609c3f0839e2a932dc33af9c4012b56c71f6b92"
 metafile = true
@@ -48,11 +38,6 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "09220f5659620232c1eeedb0b948485da91ec3a5d1a92d833539adb0b1d287ae"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "f0ab9a07e0dd1b52a62da9af68cf7c84ce6970918bcd04db1b64b47462bfd9d3"
 metafile = true
 
 [[files]]
