@@ -101,11 +101,6 @@ hash = "d956cf0f76876125ccdb7ef0451006e6082fae0a078162a775d7617bdfe3090d"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "05f36991bce548232db0c9187ec844fa055a665a6d3e610da50a8121f8a42e2a"
-metafile = true
-
-[[files]]
 file = "mods/waystones.pw.toml"
 hash = "92425fe66e92d9fe9bfb376ec63ac17413675e6db7b0f6dc85032d5899197614"
 metafile = true
