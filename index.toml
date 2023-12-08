@@ -51,11 +51,6 @@ hash = "b0c4f47a627912dc75abfb3b987de9092dcd71e499565abe8a75b43b274be382"
 metafile = true
 
 [[files]]
-file = "mods/drp-global-datapack.pw.toml"
-hash = "e10ad8b56bdc0b6ad36551004d7d5cde964cf6ea232dd356c3d2b99982715a70"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "09220f5659620232c1eeedb0b948485da91ec3a5d1a92d833539adb0b1d287ae"
 metafile = true
