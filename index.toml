@@ -236,18 +236,8 @@ hash = "663b996b6ebea5c1ba69e70484a3a9980961408e08373b3ddc0a6921b1752dbd"
 metafile = true
 
 [[files]]
-file = "mods/repurposed-structures.pw.toml"
-hash = "30f17f7199ed0010be19105c9d5c06546e652ccbb5dc4f2626010c3ba95c997b"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "be15e26c57596a239a4ce1ab4115003c39ca4e9e505ebf92990dcd005030c7e7"
-metafile = true
-
-[[files]]
-file = "mods/sgjourney.pw.toml"
-hash = "b405113d068b75335d887c12977251d389c0e64e36ad334e796629e0bce1a792"
 metafile = true
 
 [[files]]
@@ -308,21 +298,6 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "2ba1ba01bd1be7ad18d88cc232b5ab23e8307b66b80bc6a62eb9313619f05127"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-core.pw.toml"
-hash = "8e7408c761e911aca700a0bc10a0e61f86a4b118f190a6f59e85f34b142c57cd"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-furniture.pw.toml"
-hash = "2362f0f288c62ab59e149253ed8a86418108c3afa4300e0f109e09fd76037cb0"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "3c4233c984c5d9deafa8d5b987374c8f64ed58ea8d5ccf87706b42fdcf195d1b"
 metafile = true
 
 [[files]]
