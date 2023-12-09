@@ -26,6 +26,16 @@ hash = "196d40b07e59ffbdbe9e8ba4a6d461c1cc5a1e2883a49fb4d9055607938a3644"
 metafile = true
 
 [[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "1613f68b9bdd242a957a3a20c5193b640672d11087abcb5c3abe5da45b235e35"
+metafile = true
+
+[[files]]
+file = "mods/controllable.pw.toml"
+hash = "a43401d685fc24595cb18e5a51f4fa7af4a4dee2ba7bf7879a08769b037495fa"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "8307c0c613b451587b56e1fb4609c3f0839e2a932dc33af9c4012b56c71f6b92"
 metafile = true
@@ -56,8 +66,28 @@ hash = "b0c4f47a627912dc75abfb3b987de9092dcd71e499565abe8a75b43b274be382"
 metafile = true
 
 [[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "dc1ea29f1c76d25324e69fa119769248aa49230f0adb1e7427e387d87d66fd92"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "09220f5659620232c1eeedb0b948485da91ec3a5d1a92d833539adb0b1d287ae"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft-forge.pw.toml"
+hash = "bb5b3abe0f187ccde0bbbdbad7dcbc9ff513c8ce0d8770deee7fa3fe7fa5e08c"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "8e341490ab2a2b976251e3670af33638caf5e4137b7b782195451ca50249a5ba"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "0d43726a6fe83f1064237efbe1362bb15110a5e5dffc2d953b43e1893cb00080"
 metafile = true
 
 [[files]]
@@ -91,6 +121,11 @@ hash = "ccc676f2fe83d77631fda1cc9ee4f1888d5ae4790f9777b0075f820d71dee3a0"
 metafile = true
 
 [[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "2c4513f46e874f71f24a803b69f7299b0b42d4a1dfded10cbd81ce60a8acc88b"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "be8b6814ede9c36e0ba5fb78bcbc307bf640798157b51f9b2ac318b583f67153"
 metafile = true
@@ -98,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "b225595fa7ccb1e05a1011ae967db2f5e811d191d9e4e303df51a8141c54eaaa"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
 metafile = true
 
 [[files]]
@@ -111,8 +151,18 @@ hash = "3ce242ea356cb1873d126008483894edfbe69ef4d4a7948bfc3fecb420ccbb02"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "123208d47b67ef94944debfc350bacfa66d236e4dee03593abfaec27f45899f6"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true
 
 [[files]]
@@ -123,6 +173,26 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "663b996b6ebea5c1ba69e70484a3a9980961408e08373b3ddc0a6921b1752dbd"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "45893c2cf9e29f357470f367bbbf1f8eaed4e79bf8523f28af99ad81197e8255"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "e69faa49be4f91785232eb9ebb86b30edc93628f58042a50fe5c6614c72b58a3"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "7d779448e148139f4cdcf9f4f67dce6c9f46d6b971f6dbbe1296d088e8ac8d9c"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "d9f3d57d117172e45d8b7a84fbfb36b19ebb6cbdac6856f312be13a455dd5729"
 metafile = true
 
 [[files]]
@@ -138,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "d956cf0f76876125ccdb7ef0451006e6082fae0a078162a775d7617bdfe3090d"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "2ba1ba01bd1be7ad18d88cc232b5ab23e8307b66b80bc6a62eb9313619f05127"
 metafile = true
 
 [[files]]
