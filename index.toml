@@ -186,6 +186,11 @@ hash = "3de2843a7072f8e7308ba53b1ac2b3f1a38312d4acf69d5cf116c9ac684f3778"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "7937f07a105862d70f937beef9e58bfefc64891bd711bed5934a73dec803f161"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "032d4ea60b85f649fe3e7a4b7a95f4732c1cf219d820b13a4e9e63eb0eebf3c2"
 metafile = true
@@ -328,14 +333,4 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "5e692eaff3303988ab41f765070feff25b42dce4a90c23cc696dfbb8a450c392"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "329162fc6f6507b979ef4d04cba921894b9da54ace34db26ba4c0c8a7509d0cf"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "e33733ef358f1ec3596eabbd47ae33722d79f4ec778e420407a03b31c32aa146"
 metafile = true
