@@ -15,5 +15,5 @@ x Ore Potions
 x Comforts
 Boat Jump
 Mining Lasers
-Stargates
+x Stargates
 Rftools
