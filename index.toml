@@ -316,11 +316,6 @@ hash = "2362f0f288c62ab59e149253ed8a86418108c3afa4300e0f109e09fd76037cb0"
 metafile = true
 
 [[files]]
-file = "mods/valhelsia-structures.pw.toml"
-hash = "8479b3b1f0f707ea5e6c6e33e5175d11fb570b8edea98ea9e2d7a60bb9a051db"
-metafile = true
-
-[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "3c4233c984c5d9deafa8d5b987374c8f64ed58ea8d5ccf87706b42fdcf195d1b"
 metafile = true
