@@ -11,7 +11,9 @@ x Sound Physics
 x Build Wands
 x Midnight Controls
 x Framed Blocks
-Iron Furnaces
-Ore Potions
-Comforts
+x Ore Potions
+x Comforts
 Boat Jump
+Mining Lasers
+Stargates
+Rftools
