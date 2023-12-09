@@ -76,6 +76,11 @@ hash = "bb5b3abe0f187ccde0bbbdbad7dcbc9ff513c8ce0d8770deee7fa3fe7fa5e08c"
 metafile = true
 
 [[files]]
+file = "mods/flib.pw.toml"
+hash = "84c859b92abc5d7db0251d7bcc046293ff0a26729b92feaa3977e082263a9c06"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "8e341490ab2a2b976251e3670af33638caf5e4137b7b782195451ca50249a5ba"
 metafile = true
@@ -176,6 +181,16 @@ hash = "663b996b6ebea5c1ba69e70484a3a9980961408e08373b3ddc0a6921b1752dbd"
 metafile = true
 
 [[files]]
+file = "mods/simple-magnets.pw.toml"
+hash = "da27aa6a2ccd5ec9dd462baf62efd9e09abbecf927d7b3e27c6079d8b41fde66"
+metafile = true
+
+[[files]]
+file = "mods/simple-storage-network.pw.toml"
+hash = "63edf067c594089af4f367df3f5374beca34161364801839943607ab5a788dba"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "45893c2cf9e29f357470f367bbbf1f8eaed4e79bf8523f28af99ad81197e8255"
 metafile = true
@@ -197,12 +212,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "7f92b24d59c9f87bd6310547b1dee47e8f4c0116f31e9c7835d3b9ca60d8c144"
+hash = "63dc9da73f7b641a7f355ff2b1e3dacf6b16a4ece302759b1b27c79ce2f1ae2c"
 metafile = true
 
 [[files]]
