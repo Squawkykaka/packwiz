@@ -31,11 +31,6 @@ hash = "1613f68b9bdd242a957a3a20c5193b640672d11087abcb5c3abe5da45b235e35"
 metafile = true
 
 [[files]]
-file = "mods/controllable.pw.toml"
-hash = "a43401d685fc24595cb18e5a51f4fa7af4a4dee2ba7bf7879a08769b037495fa"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "8307c0c613b451587b56e1fb4609c3f0839e2a932dc33af9c4012b56c71f6b92"
 metafile = true
@@ -66,13 +61,13 @@ hash = "b0c4f47a627912dc75abfb3b987de9092dcd71e499565abe8a75b43b274be382"
 metafile = true
 
 [[files]]
-file = "mods/easy-villagers.pw.toml"
-hash = "dc1ea29f1c76d25324e69fa119769248aa49230f0adb1e7427e387d87d66fd92"
+file = "mods/curios.pw.toml"
+hash = "887894f269566efe8d753540e5edfe0e9d0357f440806d024db18282061ec10c"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "09220f5659620232c1eeedb0b948485da91ec3a5d1a92d833539adb0b1d287ae"
+file = "mods/easy-villagers.pw.toml"
+hash = "dc1ea29f1c76d25324e69fa119769248aa49230f0adb1e7427e387d87d66fd92"
 metafile = true
 
 [[files]]
@@ -138,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3de2843a7072f8e7308ba53b1ac2b3f1a38312d4acf69d5cf116c9ac684f3778"
 metafile = true
 
 [[files]]
