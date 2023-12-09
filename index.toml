@@ -111,11 +111,6 @@ hash = "bb5b3abe0f187ccde0bbbdbad7dcbc9ff513c8ce0d8770deee7fa3fe7fa5e08c"
 metafile = true
 
 [[files]]
-file = "mods/eureka-ships.pw.toml"
-hash = "9b0ca93f27d280239fdeec4ecd745286d897476ed6eeb256ac1a503045edaa52"
-metafile = true
-
-[[files]]
 file = "mods/flib.pw.toml"
 hash = "84c859b92abc5d7db0251d7bcc046293ff0a26729b92feaa3977e082263a9c06"
 metafile = true
