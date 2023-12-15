@@ -17,3 +17,7 @@ Boat Jump
 Mining Lasers
 x Stargates
 Rftools
+Jetpacks
+Bonsai Pots
+Mob Grinding Utils
+Jetpacks

@@ -4,5 +4,6 @@
 # Exclude exported Modrinth modpacks
 *.mrpack
 
+output
 docker
 comments.md

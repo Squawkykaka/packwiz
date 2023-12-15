@@ -28,6 +28,20 @@ To install this modpack, please follow the steps below:
 3. Import the downloaded zip file into either [MultiMC](https://multimc.org/) or [Prism Launcher](https://prismlauncher.org/).
 4. Launch Minecraft and have fun!
 
+## Build the Modpack Yourself
+
+If you want to build the modpack yourself, follow these steps:
+
+1. Ensure you have [packwiz](https://github.com/packwiz/packwiz) installed. If not, follow the [packwiz installation guide](https://github.com/packwiz/packwiz#installation).
+
+2. Clone this repository to your local machine using `git clone https://github.com/Squawkykaka/packwiz.git`.
+
+3. Navigate to the cloned repository's directory.
+
+4. Run the `build.bat` file by double-clicking it or running `./build.bat` in the command line. This will create the modpack files in the `output` directory.
+
+5. The modpack can now be imported into your Minecraft launcher of choice.
+
 ## How to Contribute
 
 We welcome contributions! If you'd like to add a mod to this modpack, 
