@@ -22,6 +22,7 @@
 - [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD) - A mod that fixes random memory leaks for both the client and server
 - [Rechiseled](https://modrinth.com/mod/B0g2vT6l) - Rechiseled allows you to chisel blocks into various decorative blocks with connected textures!
 - [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) - Resourceful Lib
+- [TerraBlender](https://modrinth.com/mod/kkmrDlKT) - A library mod for adding biomes in a simple and compatible manner!
 - [Waystones](https://modrinth.com/mod/LOpKHB2A) - Teleport back to activated waystones. For Survival, Adventure or Servers.
 - [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) - Performance and logic upgrades for mod AIs
 - [Architectury API (Fabric/Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/architectury-api) - An intermediary api aimed to ease developing multiplatform mods.
@@ -47,6 +48,7 @@
 - [Functional Storage](https://www.curseforge.com/minecraft/mc-mods/functional-storage) - Your classic storage drawers but with more upgrades!
 - [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter) - Simple inventory sorting tweaks
 - [Lootr (Forge)](https://www.curseforge.com/minecraft/mc-mods/lootr) - A mod that makes it so nobody misses out on Loot! All loot chests are instanced per player and visually unique.
+- [Mahou Tsukai](https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai) - A magic mod focused on special effects and spell uniqueness
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) - Nature's Compass is an item that allows you to locate biomes anywhere in the world.
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) - A library mod
 - [playerAnimator](https://www.curseforge.com/minecraft/mc-mods/playeranimator) - player animation library
