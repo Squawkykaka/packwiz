@@ -1,4 +1,5 @@
 - [Adorn](https://modrinth.com/mod/E6FUtRJh) - Decorate your home!
+- [Applied Energistics 2](https://modrinth.com/mod/XxWD5pD3) - AE2: A popular automation and storage mod
 - [Athena](https://modrinth.com/mod/b1ZV3DIJ) - A crossplatform (Forge/Fabric) solution to connected block textures for 1.19.4+
 - [Balm](https://modrinth.com/mod/MBAkmtvl) - Abstraction Layer (but not really)™ for Blay's multiplatform mods
 - [BetterF3](https://modrinth.com/mod/8shC1gFX) - BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.
@@ -18,7 +19,6 @@
 - [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) - JEI - View Items and Recipes
 - [JourneyMap](https://modrinth.com/mod/lfHFW1mp) - Real-time mapping in game or in a web browser as you explore.
 - [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz) - Adds a Kotlin language loader and provides some optional utilities.
-- [LittleTiles](https://modrinth.com/mod/RCRxC1tD) - This mod allows you to build anything with smaller details. Build amazing looking functional structures like chair, bed, doors, storage.
 - [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD) - A mod that fixes random memory leaks for both the client and server
 - [Rechiseled](https://modrinth.com/mod/B0g2vT6l) - Rechiseled allows you to chisel blocks into various decorative blocks with connected textures!
 - [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) - Resourceful Lib
