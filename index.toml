@@ -2,7 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "644ee8075287bd95cc2f8ef489669c8c852f63c776c37b9fbbe746641daa4d25"
+hash = "e67c20c0a319836426359b068b37cb1750ce73c5ea3fb5b4644bf9baf77f2700"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "28ab3346804eee584b003ae4a71b09d87612ed662a7e24a030cf219706bbbd2f"
 metafile = true
 
 [[files]]
@@ -22,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7504fa82b5bd14aee682a6882c109140f302bd63bb6f0dfd1108f9c1c9d32c38"
+hash = "73b223e3640386229fdb826495cb3d024879f9f7792bf465e51ed6c6ac026971"
 metafile = true
 
 [[files]]
@@ -67,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "8307c0c613b451587b56e1fb4609c3f0839e2a932dc33af9c4012b56c71f6b92"
+hash = "e6d9ff51e12795189b72161e9b6fa443c93fb3512013bd9d184592b466732872"
 metafile = true
 
 [[files]]
@@ -92,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "b0c4f47a627912dc75abfb3b987de9092dcd71e499565abe8a75b43b274be382"
+hash = "e045d3881cddf151c74b3976965f2c5e9055ce6b20f43acc5243845db6b3fc05"
 metafile = true
 
 [[files]]
@@ -102,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "887894f269566efe8d753540e5edfe0e9d0357f440806d024db18282061ec10c"
+hash = "489769f9b1bf1600d8eec7b8e08b27b66ecef1daeb3b4ddd44c0b6d14e5c5670"
 metafile = true
 
 [[files]]
@@ -117,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-villagers.pw.toml"
-hash = "dc1ea29f1c76d25324e69fa119769248aa49230f0adb1e7427e387d87d66fd92"
+hash = "09a9b92282052bf8ab1809916cda0c53550eb60348518b6636793863560dab86"
 metafile = true
 
 [[files]]
@@ -212,12 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "032d4ea60b85f649fe3e7a4b7a95f4732c1cf219d820b13a4e9e63eb0eebf3c2"
-metafile = true
-
-[[files]]
-file = "mods/littletiles.pw.toml"
-hash = "3ce242ea356cb1873d126008483894edfbe69ef4d4a7948bfc3fecb420ccbb02"
+hash = "f47ecf5bd43b17e7422a6186ac6ab0422eaef3434763afb0390389b27cb4eb57"
 metafile = true
 
 [[files]]
@@ -287,17 +287,17 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "45893c2cf9e29f357470f367bbbf1f8eaed4e79bf8523f28af99ad81197e8255"
+hash = "058ffeb5d53f7390b2cb3b91017ede768427893e43a433ec5d6e4b267547d5a6"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "e69faa49be4f91785232eb9ebb86b30edc93628f58042a50fe5c6614c72b58a3"
+hash = "ee0fa3921e81c5c47c27e09de1dffef9088d51981082fd1c80186f4c412e238e"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "7d779448e148139f4cdcf9f4f67dce6c9f46d6b971f6dbbe1296d088e8ac8d9c"
+hash = "9f68a11739e652f811453f92768c0170064240f79700bc8d68f4665a2b1c697f"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-compass.pw.toml"
-hash = "358b2dcb7c58abda831ee3dfa265591820074caa3db3bde0402f4a241364a2af"
+hash = "7ce547e1bcde25e2b64c170491f56d2e5c772b7ef9a7fa3ccd31bb56171f497e"
 metafile = true
 
 [[files]]
@@ -332,12 +332,12 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "2ba1ba01bd1be7ad18d88cc232b5ab23e8307b66b80bc6a62eb9313619f05127"
+hash = "059f7774ed60d205e0894cc362f72869d6f24f9909f170487b177ce60a27cb44"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "92425fe66e92d9fe9bfb376ec63ac17413675e6db7b0f6dc85032d5899197614"
+hash = "05bf4c054b1346db1696d76ebbbea07fc30668251a3c78905a98b3045df4dbf7"
 metafile = true
 
 [[files]]
