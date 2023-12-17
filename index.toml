@@ -226,6 +226,11 @@ hash = "123208d47b67ef94944debfc350bacfa66d236e4dee03593abfaec27f45899f6"
 metafile = true
 
 [[files]]
+file = "mods/mahou-tsukai.pw.toml"
+hash = "2e5bb6e92f85f6f68a19d03846036424166354b31f1f082f0c628ec39ad8a9fc"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
 metafile = true
