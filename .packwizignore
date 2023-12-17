@@ -9,3 +9,6 @@ comments.md
 LICENSE
 mods.md
 build.*
+.packwizml.cache
+modlist.md
+/output

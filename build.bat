@@ -12,7 +12,6 @@ set "packname=Squawkypack"
 set "packwizdownload=true"
 set "packwizlocation=https://github.com/Squawkykaka/packwiz/raw/master/Squawkypack-packwiz.zip"
 
-
 :: Remove old output files
 if exist "output\" (
     echo Removing old output files...
@@ -24,7 +23,6 @@ if not exist "output\" (
     echo Creating output directory...
     mkdir "output"
 )
-
 
 :: Extract the version from the pack.toml file
 for /f "tokens=2 delims==" %%a in ('findstr /b /c:"version =" pack.toml') do set "version=%%a"
@@ -40,6 +38,19 @@ if %packwizdownload% == true (
     cd output 
     curl -LO %packwizlocation%
     cd ..
+)
+
+:: Check for --modlist flag
+if "%~1" == "--modlist" (
+    where /q cargo
+    if errorlevel 1 (
+        echo cargo is not installed. Please install it and try again.
+        exit /b
+    )
+    echo Installing packwiz-modlist...
+    cargo install packwiz-modlist
+    echo Generating modlist...
+    packwizml --output modlist.md
 )
 
 echo Done!

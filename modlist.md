@@ -1,0 +1,67 @@
+- [Adorn](https://modrinth.com/mod/E6FUtRJh) - Decorate your home!
+- [Athena](https://modrinth.com/mod/b1ZV3DIJ) - A crossplatform (Forge/Fabric) solution to connected block textures for 1.19.4+
+- [Balm](https://modrinth.com/mod/MBAkmtvl) - Abstraction Layer (but not really)™ for Blay's multiplatform mods
+- [BetterF3](https://modrinth.com/mod/8shC1gFX) - BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.
+- [Biomes O' Plenty](https://modrinth.com/mod/HXF82T3G) - Adds 50+ unique biomes to enhance your world, with new trees, flowers, and more!
+- [Chipped](https://modrinth.com/mod/BAscRYKm) - Every block deserves a friend.
+- [Cloth Config API](https://modrinth.com/mod/9s6osm5g) - Configuration Library for Minecraft Mods
+- [Comforts](https://modrinth.com/mod/SaCpeal4) - Adds sleeping bags and hammocks for, respectively, portability and turning day to night, without setting new spawns. Comes in 16 different colors!
+- [Create Enchantment Industry](https://modrinth.com/mod/JWGBpFUP) - Automatic Enchanting, with Create
+- [Create: Steam 'n' Rails](https://modrinth.com/mod/ZzjhlDgM) - Adding depth to Create's rail network & steam system
+- [Create: Structures](https://modrinth.com/mod/IAnP4np7) - Add-on for Create that implements naturally generating structures containing early-game Create contraptions and items.
+- [Create Track Map](https://modrinth.com/mod/gxoNIjg6) - A web-based track map of your world's Create train system, complete with signals, stations, and trains moving in real time.
+- [Create](https://modrinth.com/mod/LNytGWDc) - Aesthetic Technology that empowers the Player
+- [CreativeCore](https://modrinth.com/mod/OsZiaDHq) - A core mod
+- [Curios API](https://modrinth.com/mod/vvuO3ImH) - A flexible and expandable accessory/equipment API for users and developers.
+- [Fusion (Connected Textures)](https://modrinth.com/mod/p19vrgc2) - Fusion allows resource packs to use additional texture and model types such as connected textures!
+- [Create: Interiors](https://modrinth.com/mod/r4Knci2k) - A complement to the Create mod that adds new furniture.
+- [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) - JEI - View Items and Recipes
+- [JourneyMap](https://modrinth.com/mod/lfHFW1mp) - Real-time mapping in game or in a web browser as you explore.
+- [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz) - Adds a Kotlin language loader and provides some optional utilities.
+- [LittleTiles](https://modrinth.com/mod/RCRxC1tD) - This mod allows you to build anything with smaller details. Build amazing looking functional structures like chair, bed, doors, storage.
+- [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD) - A mod that fixes random memory leaks for both the client and server
+- [Rechiseled](https://modrinth.com/mod/B0g2vT6l) - Rechiseled allows you to chisel blocks into various decorative blocks with connected textures!
+- [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) - Resourceful Lib
+- [Waystones](https://modrinth.com/mod/LOpKHB2A) - Teleport back to activated waystones. For Survival, Adventure or Servers.
+- [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) - Performance and logic upgrades for mod AIs
+- [Architectury API (Fabric/Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/architectury-api) - An intermediary api aimed to ease developing multiplatform mods.
+- [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets) - A collection of Gadgets to make building large structures a little bit easier!
+- [Charging Gadgets](https://www.curseforge.com/minecraft/mc-mods/charging-gadgets) - A simple mod for charging with ForgeEnergy
+- [Construction Wand](https://www.curseforge.com/minecraft/mc-mods/construction-wand) - Construction Wands make building easier! (A new take on the Builder's Wand)
+- [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard) - Cupboard provides code, frameworks, and utilities for minecraft mods
+- [Dungeons and Taverns](https://www.curseforge.com/minecraft/mc-mods/dungeon-and-taverns) - an Vanilla styled structure mod
+- [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl) - Generates large underground dungeon structures in the overworld.
+- [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers) - Never get annoyed by villagers again!
+- [Emotecraft (Forge)](https://www.curseforge.com/minecraft/mc-mods/emotecraft-forge) - Emotes in minecraft
+- [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) - A performance upgrade for the furnace.
+- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) - A performance upgrade for the crafting table.
+- [FLIB](https://www.curseforge.com/minecraft/mc-mods/flib) - FutureLIBrary mod to speed up porting and developing new content
+- [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks) - Fancy building blocks
+- [Framework](https://www.curseforge.com/minecraft/mc-mods/framework) - A library providing powerful utilities for developers
+- [FTB Backups 2](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2) - Updated verson of FTB Backups.
+- [FTB Chunks (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge) - A mod that allows you to claim chunks to protect your blocks and view minimap / large map
+- [FTB Essentials (Forge & Fabric)](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials-forge) - Adds many essential utility commands for servers
+- [FTB Library (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) - Common code for all GUI stuff in FTB Mods
+- [FTB Teams (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge) - Library for mods that can utilize team progression
+- [FTB Ultimine (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) - Harvest multiple blocks at once
+- [Functional Storage](https://www.curseforge.com/minecraft/mc-mods/functional-storage) - Your classic storage drawers but with more upgrades!
+- [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter) - Simple inventory sorting tweaks
+- [Lootr (Forge)](https://www.curseforge.com/minecraft/mc-mods/lootr) - A mod that makes it so nobody misses out on Loot! All loot chests are instanced per player and visually unique.
+- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) - Nature's Compass is an item that allows you to locate biomes anywhere in the world.
+- [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) - A library mod
+- [playerAnimator](https://www.curseforge.com/minecraft/mc-mods/playeranimator) - player animation library
+- [PolyLib](https://www.curseforge.com/minecraft/mc-mods/polylib) - A Minecraft lib used for all of CreeperHosts mods
+- [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/polymorph) - No more recipe conflicts! Adds an option to choose the crafting result if more than one is available.
+- [Potions Master](https://www.curseforge.com/minecraft/mc-mods/potionsmaster) - Expanding on Minecraft Potions
+- [Simple Magnets](https://www.curseforge.com/minecraft/mc-mods/simple-magnets) - Simple Magnets adds Magnets that pickup items around the player!
+- [Simple Storage Network](https://www.curseforge.com/minecraft/mc-mods/simple-storage-network) - A simplified port of the original Storage Network
+- [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) - A working voice chat in Minecraft!
+- [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) - Yet another backpack mod this time with backpack you can place in world, color in different color combinations, upgrade with more inventory and enhance with many functional upgrades
+- [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core) - Library mod for Sophisticated mods
+- [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) - A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.
+- [Structure Compass](https://www.curseforge.com/minecraft/mc-mods/structure-compass) - Adds a compass for each structure that you can use to locate structures
+- [Structure Essentials[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric) - faster locate command, advance error logging, nearby structure checks and more
+- [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib) - Config Lib makes dealing with config files just a bit easier.
+- [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib) - SuperMartijn642's Core Lib adds lots of basic implementations that allow for similar code between different Minecraft versions!
+- [Titanium](https://www.curseforge.com/minecraft/mc-mods/titanium) - Library for Horizon Studio
+- [When Dungeons Arise - Forge!](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise) - Adds various elegant -and likely hostile- roguelike dungeons and structures that generate on your worlds!
