@@ -17,7 +17,7 @@ modpacks using TOML files, which can include detailed information about
 ## Featured Mods
 
 Our modpack includes a diverse range of mods. The modpack features 
-popular mods such as Biomes O' Plenty, Create, and many more.
+popular mods such as Biomes O' Plenty, Create, and many more. You can see them all over at our [modlist](https://github.com/Squawkykaka/packwiz/blob/master/modlist.md)
 
 ## Installation Guide
 
