@@ -11,7 +11,6 @@
 - [Create: Steam 'n' Rails](https://modrinth.com/mod/ZzjhlDgM) - Adding depth to Create's rail network & steam system
 - [Create: Structures](https://modrinth.com/mod/IAnP4np7) - Add-on for Create that implements naturally generating structures containing early-game Create contraptions and items.
 - [Create Track Map](https://modrinth.com/mod/gxoNIjg6) - A web-based track map of your world's Create train system, complete with signals, stations, and trains moving in real time.
-- [Create](https://modrinth.com/mod/LNytGWDc) - Aesthetic Technology that empowers the Player
 - [CreativeCore](https://modrinth.com/mod/OsZiaDHq) - A core mod
 - [Curios API](https://modrinth.com/mod/vvuO3ImH) - A flexible and expandable accessory/equipment API for users and developers.
 - [Fusion (Connected Textures)](https://modrinth.com/mod/p19vrgc2) - Fusion allows resource packs to use additional texture and model types such as connected textures!
@@ -26,9 +25,10 @@
 - [Waystones](https://modrinth.com/mod/LOpKHB2A) - Teleport back to activated waystones. For Survival, Adventure or Servers.
 - [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) - Performance and logic upgrades for mod AIs
 - [Architectury API (Fabric/Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/architectury-api) - An intermediary api aimed to ease developing multiplatform mods.
-- [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets) - A collection of Gadgets to make building large structures a little bit easier!
 - [Charging Gadgets](https://www.curseforge.com/minecraft/mc-mods/charging-gadgets) - A simple mod for charging with ForgeEnergy
 - [Construction Wand](https://www.curseforge.com/minecraft/mc-mods/construction-wand) - Construction Wands make building easier! (A new take on the Builder's Wand)
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create) - Aesthetic Technology that empowers the Player
+- [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition) - Electrifying the Create mod!
 - [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard) - Cupboard provides code, frameworks, and utilities for minecraft mods
 - [Dungeons and Taverns](https://www.curseforge.com/minecraft/mc-mods/dungeon-and-taverns) - an Vanilla styled structure mod
 - [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl) - Generates large underground dungeon structures in the overworld.
@@ -61,9 +61,11 @@
 - [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) - Yet another backpack mod this time with backpack you can place in world, color in different color combinations, upgrade with more inventory and enhance with many functional upgrades
 - [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core) - Library mod for Sophisticated mods
 - [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) - A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.
+- [spark](https://www.curseforge.com/minecraft/mc-mods/spark) - spark is a performance profiler for Minecraft clients, servers and proxies.
 - [Structure Compass](https://www.curseforge.com/minecraft/mc-mods/structure-compass) - Adds a compass for each structure that you can use to locate structures
 - [Structure Essentials[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric) - faster locate command, advance error logging, nearby structure checks and more
 - [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib) - Config Lib makes dealing with config files just a bit easier.
 - [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib) - SuperMartijn642's Core Lib adds lots of basic implementations that allow for similar code between different Minecraft versions!
 - [Titanium](https://www.curseforge.com/minecraft/mc-mods/titanium) - Library for Horizon Studio
 - [When Dungeons Arise - Forge!](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise) - Adds various elegant -and likely hostile- roguelike dungeons and structures that generate on your worlds!
+- [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets) - A collection of Gadgets to make building large structures a little bit easier!
