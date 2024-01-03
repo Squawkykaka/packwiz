@@ -26,6 +26,11 @@ hash = "21693570dd62ad5e53ab74e69012b427621291f258a66387f0da6a9d3819a41f"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "75e2b8d5951693a4988054d2c3b64af48f1ef5d88576b365442f8328ffa75775"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "73b223e3640386229fdb826495cb3d024879f9f7792bf465e51ed6c6ac026971"
 metafile = true
@@ -358,4 +363,9 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "5e692eaff3303988ab41f765070feff25b42dce4a90c23cc696dfbb8a450c392"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
