@@ -136,6 +136,11 @@ hash = "bb5b3abe0f187ccde0bbbdbad7dcbc9ff513c8ce0d8770deee7fa3fe7fa5e08c"
 metafile = true
 
 [[files]]
+file = "mods/essential.pw.toml"
+hash = "0067dc71668a2214c76ccfab383726716dc4d5aec5c4ce05a44fdf7382180ad1"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "941194b650fa31742558efb25a2bc92b8bb6089da8cbf0f0eed096a6f76138b6"
 metafile = true
