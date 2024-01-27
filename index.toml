@@ -256,6 +256,11 @@ hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "71fb3404b65e75436949c03de533472c78e157951f6c29fd674735039ed9807d"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "3efe1725ae6105d992ab8be92044c83e1886b0b9f0972415c3f72ab018e82f79"
 metafile = true
